@@ -46,7 +46,7 @@ function More({ closed }) {
           onClick={handleClose}
           className="hover:text-[#eb4a4c] duration-500"
         >
-          HOME
+          Home
         </Link>
       </motion.div>
 
@@ -56,7 +56,7 @@ function More({ closed }) {
           onClick={handleClose}
           className="hover:text-[#eb4a4c] duration-500"
         >
-          ABOUT
+          About
         </Link>
       </motion.div>
       {/*<motion.div variants={itemVariants}>
@@ -75,7 +75,7 @@ function More({ closed }) {
           onClick={handleClose}
           className="hover:text-[#eb4a4c] duration-500"
         >
-          CONTACT
+          Contact
         </Link>
       </motion.div>
     </motion.div>

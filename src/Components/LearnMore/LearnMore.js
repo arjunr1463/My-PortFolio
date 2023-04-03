@@ -205,10 +205,10 @@ function learnmore({ close }) {
               </p>
 
               {/*Education Timeline */}
-              <div className="flex flex-col gap-8 p-8 ">
+              <div className="flex flex-col gap-8 py-[10px] lg:p-8 ">
                 <div className="bg-[white] rounded-lg p-4">
                   <div className="flex items-center gap-4 font-mont">
-                    <div>
+                    <div className="">
                       <h2 className="text-lg font-bold font-mont text-gray-800">
                         IHRD College of Engineering Kalloppara
                       </h2>
